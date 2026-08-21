@@ -1,16 +1,14 @@
-## Hi there 👋
+# Daniel Smith
 
-<!--
-**Daniel-Smith05/Daniel-Smith05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Front-end developer. HTML, CSS, JavaScript.
 
-Here are some ideas to get you started:
+Currently sharpening core JavaScript and building projects to prove it — not just studying it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stack**
+`HTML` `CSS` `JavaScript`
+
+**In progress**
+No pinned projects yet — actively building. Check back soon.
+
+**Contact**
+[GitHub](#) · [LinkedIn](#) · [Email](#)
